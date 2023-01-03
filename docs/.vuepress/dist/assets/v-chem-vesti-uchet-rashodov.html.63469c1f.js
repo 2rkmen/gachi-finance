@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-937ab5de","path":"/v-chem-vesti-uchet-rashodov.html","title":"","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1672749306000,"contributors":[{"name":"akurbanov","email":"maotsedun@mail.ru","commits":1}]},"filePathRelative":"v-chem-vesti-uchet-rashodov.md"}');export{e as data};

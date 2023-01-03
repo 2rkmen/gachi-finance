@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"gachi-finance","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1672749306000,"contributors":[{"name":"akurbanov","email":"maotsedun@mail.ru","commits":2}]},"filePathRelative":"readme.md"}');export{a as data};
