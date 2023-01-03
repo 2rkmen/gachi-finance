@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-54f2e4b7","path":"/moi-istochniki.html","title":"","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1672749306000,"contributors":[{"name":"akurbanov","email":"maotsedun@mail.ru","commits":1}]},"filePathRelative":"moi-istochniki.md"}');export{t as data};
