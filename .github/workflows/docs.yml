@@ -23,10 +23,10 @@ jobs:
           # choose pnpm version to use
           version: 7
           # install deps with pnpm
-          run_install: false
+          run_install: true
 
-      - name: Install dependencies
-        run: pnpm install --recursive
+#      - name: Install dependencies
+#        run: pnpm install --recursive
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
